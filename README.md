@@ -8,6 +8,7 @@ This repository serves as a hub for the Optimization and Decision project.
 |
 ├── docs <- Documents
 │ ├── report <- Generated analysis as HTML, PDF, LaTeX, DOCX etc.
+│ ├── presentations <- PPTX files created for presentations.
 │ └── figures <- Generated graphics and figures to be used in report.
 |
 ├── code <- Code of the project, emcompassing the created jupyter notebook files for each algorithm.
